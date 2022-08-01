@@ -1,8 +1,13 @@
 [
     {
-        "name": "C++ DSA Notes",
+        "name": "C++ DSA Codes",
         "icon": "https://img.icons8.com/color/50/000000/c-plus-plus-logo.png",
         "link": "https://github.com/maityamit/Cpp-DSA-Notes-and-Programs"
+    },
+    {
+        "name": "C++ DSA Notes",
+        "icon": "https://img.icons8.com/color/50/000000/c-plus-plus-logo.png",
+        "link": ""
     },
     {
         "name": "LeetCode Practice🧑‍💻",
