@@ -1,3 +1,2 @@
-# maityamit portfolio
+# subhajit portfolio
 
-# [https://maityamit.github.io/maityamit-portfolio/]

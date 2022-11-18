@@ -20,11 +20,11 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Projects | Portfolio Amit Maity";
+            document.title = "Projects | Portfolio Subhajit Gorai";
             $("#favicon").attr("href", "/assets/images/favicon.ico");
         }
         else {
-            document.title = "Projects | Portfolio Amit Maity";
+            document.title = "Projects | Portfolio Subhajit Gorai";
             $("#favicon").attr("href", "/assets/images/favicon.ico");
         }
     });
