@@ -59,5 +59,9 @@
   {
     "name": "Docker",
     "icon": "https://img.icons8.com/color/48/000000/docker.png"
+  },
+  {
+    "name": "Kubernetes",
+    "icon": "https://img.icons8.com/color/48/000000/kubernetes.png"
   }
 ]
