@@ -91,7 +91,7 @@
   },
   {
     "name": "SearchNow: Searching App",
-    "desc": "Built a mobile application using react native for the front end and firebase for the backend. Also I've used web search API for fetching data!",
+    "desc": "Built a mobile application using react native for the front end and firebase for the backend. Also I've used web search API for fetching data! Also inplemented deep linking to search data directly through dynamic links!",
     "image": "searchNow",
     "category": "hybrid_android",
     "links": {
