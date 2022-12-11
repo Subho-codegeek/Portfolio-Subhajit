@@ -88,5 +88,15 @@
       "view": "https://communiti.netlify.app/",
       "code": "https://github.com/Subhajitongit/Communiti-frontend"
     }
+  },
+  {
+    "name": "SearchNow: Searching App",
+    "desc": "Built a mobile application using react native for the front end and firebase for the backend. Also I've used web search API for fetching data!",
+    "image": "searchNow",
+    "category": "hybrid_android",
+    "links": {
+      "view": "https://github.com/Subhajitongit/Search-Now",
+      "code": "https://github.com/Subhajitongit/Search-Now"
+    }
   }
 ]
