@@ -60,13 +60,13 @@
     }
   },
   {
-    "name": "Motion Detection Security Camera",
-    "desc": " Built this MDS camera 📸 using python and openCV. This detects any movement and surrounds and same within a box and makes an alerting sound🔊",
-    "image": "ml",
-    "category": "Machine_L",
+    "name": "Travel App Backend API",
+    "desc": "This is a backend service API built on Node.js, Express and MongoDB as the database. Supports login, registering, creating itenary and a lot more!",
+    "image": "tripbackedn",
+    "category": "backend",
     "links": {
-      "view": "https://github.com/Subhajitongit/Motion-Detection-Security-Camera",
-      "code": "https://github.com/Subhajitongit/Motion-Detection-Security-Camera"
+      "view": "https://github.com/Subhajitongit/trip-API",
+      "code": "https://github.com/Subhajitongit/trip-API"
     }
   },
   {
@@ -97,6 +97,16 @@
     "links": {
       "view": "https://github.com/Subhajitongit/Search-Now",
       "code": "https://github.com/Subhajitongit/Search-Now"
+    }
+  },
+  {
+    "name": "Motion Detection Security Camera",
+    "desc": " Built this MDS camera 📸 using python and openCV. This detects any movement and surrounds and same within a box and makes an alerting sound🔊",
+    "image": "ml",
+    "category": "Machine_L",
+    "links": {
+      "view": "https://github.com/Subhajitongit/Motion-Detection-Security-Camera",
+      "code": "https://github.com/Subhajitongit/Motion-Detection-Security-Camera"
     }
   }
 ]
